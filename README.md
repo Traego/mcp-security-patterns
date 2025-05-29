@@ -1,7 +1,5 @@
 # MCP Security Patterns
 
-# MCP Security Patterns
-
 A collection of security patterns to strengthen Model Context Protocol (MCP) implementations.
 
 ## Table of Contents
